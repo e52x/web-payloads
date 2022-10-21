@@ -1,6 +1,6 @@
 #!/usr/bin/python3.5
 #Ciee Mau Recode ya
-#Recode aja cil gk ngapa
+#Recode aja cil gk ngapa2
 import requests
 from subprocess import call
 
